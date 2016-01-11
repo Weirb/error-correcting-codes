@@ -5,6 +5,7 @@ Date: 2016-01-11
 Noisy communication channel simulation.
 Created for final assignment of Quantum Information, Autumn 2015 at The University of Edinburgh.
 
+Dependencies: NumPy (http://www.numpy.org/); PIL (https://python-pillow.github.io/)
 """
 
 from collections import Counter
